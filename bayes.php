@@ -84,6 +84,7 @@ function head() {
 function foot() {
     ob_start();
     ?>
+                <p>From <a href="http://bluebones.net/2013/08/bayes-theorem-calculator/">bluebones.net</a></p>
             </div>
         </body>
     </html>
